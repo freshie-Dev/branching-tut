@@ -1,2 +1,6 @@
 master added from branch 2
+<<<<<<< HEAD
 adding line 2, removing extra "a"
+=======
+adding line 2, removing extra "b"
+>>>>>>> branch2-child
